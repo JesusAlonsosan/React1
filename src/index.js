@@ -17,6 +17,5 @@ var element = React.createElement('h1', { className: 'greeting' },
     'Без тени сомненья, без капли печали.!');
 
 
-
 ReactDOM.render(element, document.getElementById('root'));
 serviceWorker.unregister();
